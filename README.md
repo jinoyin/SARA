@@ -1,4 +1,5 @@
-# ULTRA Self-Evolution with Structural KG Augmentation
+# Model-Agnostic Knowledge Graph Enrichment via
+Structure-Aware Relational Augmentation
 
 This package contains the minimal code and experiment assets used for a
 self-evolution training workflow built on ULTRA. Only two graph augmentation
