@@ -93,39 +93,6 @@ Across all datasets, the training-set-size-weighted augmentation ratio of SARA i
 | + KnowAug | 68.5 |   60.4 |
 | + SARA    | 73.3 |   68.0 |
 
-## Repository Structure
-
-The exact paths below should be adjusted to match the final repository layout.
-
-```text
-.
-├── README.md
-├── requirements.txt
-├── configs/
-│   ├── sara/
-│   └── backbones/
-├── data/
-│   └── ...
-├── src/
-│   ├── augmentation/
-│   │   ├── symmetry.py
-│   │   └── cooccurrence.py
-│   ├── preprocess.py
-│   └── utils.py
-├── scripts/
-│   ├── run_sara.sh
-│   ├── run_ultra.sh
-│   ├── run_trix.sh
-│   ├── run_motif.sh
-│   ├── run_flock.sh
-│   ├── run_transe.sh
-│   └── run_grail.sh
-└── results/
-    └── ...
-```
-
-If your repository uses different filenames, replace this tree and the example commands below with the actual paths before release.
-
 ## Environment
 
 We recommend creating an isolated Python environment.
