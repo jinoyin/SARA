@@ -1,6 +1,6 @@
 # SARA: Structure-Aware Relational Augmentation for Knowledge Graph Completion
 
-> Anonymous artifact for peer review.
+> This repository currently provides a preliminary version of the artifact, and we will continue to expand and improve the code, documentation, and reproducibility resources in subsequent updates.
 
 This repository contains the implementation and experimental artifacts for **SARA**, a lightweight and model-agnostic knowledge graph enrichment framework for knowledge graph completion (KGC).
 
